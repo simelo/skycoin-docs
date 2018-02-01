@@ -54,7 +54,7 @@ http://opensource.org/licenses/MIT.
 [not a specification]: /en/developer-reference#not-a-specification
 [not aspecification]: TODO: EMPTY
 [proof of burn]: TODO: EMPTY
-[proof of work]: TODO: EMPTY
+[proof of work]: https://en.wikipedia.org/wiki/Proof-of-work_system "A proof-of-work (POW) system (or protocol, or function) is an economic measure to deter denial of service attacks and other service abuses such as spam on a network by requiring some work from the service requester, usually meaning processing time by a computer."
 [rfc5737]: http://tools.ietf.org/html/rfc5737
 [section creating a bloom filter]: /en/developer-examples#creating-a-bloom-filter
 [section message header]: /en/developer-reference#message-headers
