@@ -62,7 +62,7 @@ http://opensource.org/licenses/MIT.
 [section serialized blocks]: /en/developer-reference#serialized-blocks
 [skycoin web wallet]: TODO: EMPTY
 [skycoin-docs mailing list]: TODO: EMPTY
-[skycoin.go at master]: TODO: EMPTY
+[skycoin.go at master]: https://github.com/skycoin/skycoin/tree/master/cmd/skycoin
 [skycoin.go at testnet]: TODO: EMPTY
 [tor]: https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29
 [well known public peers]: https://downloads.skycoin.net/blockchain/peers.txt "A public list of Skycoin nodes maintained by Skycoin community members. These are not trusted initial network seed nodes"
