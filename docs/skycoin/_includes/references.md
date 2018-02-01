@@ -53,7 +53,7 @@ http://opensource.org/licenses/MIT.
 [network]: /en/developer-guide#term-network "The Skycoin gnet P2P network which broadcasts transactions and blocks"
 [not a specification]: /en/developer-reference#not-a-specification
 [not aspecification]: TODO: EMPTY
-[proof of burn]: TODO: EMPTY
+[proof of burn]: https://en.bitcoin.it/wiki/Proof_of_burn "Proof of burn is a method for distributed consensus and an alternative to Proof of Work and Proof of Stake. It can also be used for bootstrapping one cryptocurrency off of another. The idea is that miners should show proof that they burned some coins - that is, sent them to a verifiably unspendable address. This is expensive from their individual point of view, just like proof of work; but it consumes no resources other than the burned underlying asset. To date, all proof of burn cryptocurrencies work by burning proof-of-work-mined cryptocurrencies, so the ultimate source of scarcity remains the proof-of-work-mined \"fuel\"."
 [proof of work]: TODO: EMPTY
 [rfc5737]: http://tools.ietf.org/html/rfc5737
 [section creating a bloom filter]: /en/developer-examples#creating-a-bloom-filter
