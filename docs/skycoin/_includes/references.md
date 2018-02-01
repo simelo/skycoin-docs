@@ -47,7 +47,7 @@ http://opensource.org/licenses/MIT.
 [head block]: TODO: EMPTY
 [high-speed block relay network]: https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg03189.html
 [intr message]: TODO: EMPTY
-[introduction handshake]: TODO: EMPTY
+[introduction handshake]:  https://en.wikipedia.org/wiki/Handshaking "A handshake is an automated process of negotiation between two communicating participants that establishes the protocols of a communications channel, at the start of the communication, before full communication begins. It follows the physical establishment of the channel and precedes normal information transfer."
 [maximum message length]: TODO: EMPTY
 [miner]: TODO: EMPTY
 [network]: /en/developer-guide#term-network "The Skycoin gnet P2P network which broadcasts transactions and blocks"
