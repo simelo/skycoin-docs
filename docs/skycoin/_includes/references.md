@@ -29,7 +29,7 @@ http://opensource.org/licenses/MIT.
 [bitcoin tx message]: https://bitcoin.org/en/developer-reference#tx "A P2P protocol message which sends a single serialized transaction"
 [bitcoin verack message]: https://bitcoin.org/en/developer-reference#verack "A P2P network message sent in reply to a version message to confirm a connection has been established"
 [bitcoin version message]: https://bitcoin.org/en/developer-reference#version "A P2P network message sent at the begining of a connection to allow protocol version negotiation"
-[block height]: TODO: EMPTY
+[block height]: /docs/skycoin/_data/glossary/en/block-height.yaml
 [block sequence number]: TODO: EMPTY
 [blocks-first]: TODO: EMPTY
 [coin hour]: TODO: EMPTY
