@@ -13,7 +13,6 @@
 .meta .devdocs {
     text-align: center;
 }
-
-.space{
-	display: inline-block;
+p {
+  margin-top: 25px
 }
